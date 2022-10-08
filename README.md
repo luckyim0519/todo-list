@@ -1,4 +1,4 @@
-To Do List App
+To Do List App sync with ios and android (web-app)
 
 ![image](https://user-images.githubusercontent.com/84313518/194689309-33232a43-5dc9-49d5-aabe-32ef75f310c3.png)
 
